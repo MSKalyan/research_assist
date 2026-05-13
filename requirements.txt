@@ -1,0 +1,15 @@
+ langgraph  
+  langchain  
+  langchain-community  
+  langchain-text-splitters  
+  langchain-chroma  
+  langchain-groq  
+  chromadb  
+  pypdf  
+  fastapi  
+  uvicorn  
+  python-multipart  
+  python-dotenv  
+  pydantic
+aiofiles
+aiofiles
